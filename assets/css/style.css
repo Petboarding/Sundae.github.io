@@ -141,6 +141,9 @@ margin-top: 50px;
 	width: 300px;
 
 }
+.main-bg .road-sec{
+overflow-x: hidden;
+}
 .main-bg .road-sec .mann .prg-4 .phs{
 	width: 150px;
 }
