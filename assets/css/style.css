@@ -65,6 +65,10 @@ body{
 ;
 
 }
+.main-bg  .bnr-sec{
+	overflow-x: hidden;
+}
+
 .main-bg  .bnr-sec .cnnt #chrt{
 	position: relative;
 	top: -30px;
@@ -314,14 +318,10 @@ width: 340px;
 	word-spacing: 5px;
 	margin-bottom: 50px;
 	color: #fff;
+	overflow-x: hidden;
 
 
 
 }
 
 
-/*border-radius
-rgba(232, 79, 79, 1)
-color
-rgba(201, 53, 53, 1)
-rgba(232, 79, 79, 1)*/
