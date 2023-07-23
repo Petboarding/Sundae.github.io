@@ -1,0 +1,905 @@
+@media(max-width:786px){
+    .main-bg .navbar .collapse .navbar-nav .nav-item .nav-link{
+        text-align: center;
+        padding: 15px;
+        text-decoration: none;
+        color: #fff;
+    }
+
+.main-bg .navbar .collapse form{
+    text-align: center;
+}
+
+}
+/*-----------------------540---------*/
+@media(max-width:540px){
+    .main-bg {
+        height: 7600px;
+    }
+  .main-bg  .bnr-sec{
+    margin-top: 60px;
+  }
+  .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -540px;
+    left: 134px;
+    width: 400px;
+
+
+} 
+.main-bg .navbar .navbar-nav {
+/*    position: relative;
+    top: 20px;*/
+    margin-top: 26px;
+}
+.main-bg .navbar  form{
+      margin-top: 20px;
+}
+.main-bg  .bnr-sec .cnt{
+    margin-left: -110px;
+}
+.main-bg  .bnr-sec .cnt .crcl{
+   text-align: center;
+}
+.main-bg .ftr-sec{
+    text-align: center;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 50px;
+}
+.main-bg .tkn-sect .cnttt{
+    margin-top: -70px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 460px;
+    left: -140px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 150px;
+    left: 200px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 12px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 12px;
+    word-spacing: px;
+}
+.main-bg .road-sec .mann{
+    margin-top: 100px;
+}
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 140px;
+}
+.main-bg .road-sec .prg-3 ul li{
+    font-size: 12px;
+    word-spacing: px;
+}
+.main-bg .road-sec .prg-4 ul li{
+    font-size: 12px;
+    word-spacing: px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -220px;
+    left: 220px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec{
+    margin-top: -50px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 840px;
+}
+.main-bg .updt-sec .updt-bg .cnttt{
+    padding-top: 60px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -370px;
+left: 50px;
+width: 250px;
+}
+
+.main-bg .ftr-sec  .cnttt{
+    margin-top: 50px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: 60px;
+    width: 400px;
+    padding: 12px;
+}
+.main-bg .road-sec .prg-3 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+.main-bg .road-sec .prg-4 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+
+}
+/*-----------425----------*/
+@media(max-width:425px)
+{
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -440px;
+    left: 134px;
+    width: 300px;
+
+
+}
+  .main-bg {
+        height: 6800px;
+    } 
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 500px;
+   margin-left: 25px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 25px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 120px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 10px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -160px;
+    left: 155px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -300px;
+left: 60px;
+width: 190px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 800px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: 10px;
+    width: 370px;
+    padding: 10px;
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 180px;
+}
+}
+/*------------414-----------*/
+@media(max-width:414px){
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -440px;
+    left: 134px;
+    width: 300px;
+
+
+} 
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 25px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 25px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 120px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 10px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -160px;
+    left: 145px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -300px;
+left: 50px;
+width: 190px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 800px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: 10px;
+    width: 370px;
+    padding: 10px;
+}
+.main-bg {
+        height: 6800px;
+    }
+}
+/*----------394----------*/
+@media(max-width:394px)
+{
+
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -360px;
+    left: 150px;
+    width: 250px;
+
+
+}
+.main-bg {
+        height: 6500px;
+    } 
+.main-bg  .bnr-sec .cnnt  #chrt{
+    position: relative;
+    left: -2px;
+}
+.main-bg  .abt-sec{
+    margin-top: -160px;
+}
+
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 74px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 25px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 120px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 100px;
+    position: relative;
+    left: 10px;
+
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 100px;
+        position: relative;
+    left: 10px;
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 100px;
+        position: relative;
+    left: 10px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 100px;
+        position: relative;
+    left: 10px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 10px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -160px;
+    left: 120px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -280px;
+left: 50px;
+width: 180px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 800px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: px;
+    width: 350px;
+    padding: 3px;
+}
+.main-bg .ftr-sec .copy p
+{
+    font-size: 12px;
+
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 170px;
+}
+}
+/*----------390----------*/
+@media(max-width:390px)
+{
+
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -360px;
+    left: 150px;
+    width: 250px;
+
+
+} 
+.main-bg {
+        height: 6500px;
+    } 
+.main-bg  .bnr-sec .cnnt  #chrt{
+    position: relative;
+    left: 70px;
+}
+.main-bg  .abt-sec{
+    margin-top: -160px;
+}
+
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 67px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 25px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 120px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 100px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 10px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -160px;
+    left: 120px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -280px;
+left: 50px;
+width: 180px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 800px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: px;
+    width: 350px;
+    padding: 3px;
+}
+.main-bg .ftr-sec .copy p
+{
+    font-size: 12px;
+
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 170px;
+}
+}
+
+
+/*-----------375---------*/
+@media(max-width:375px){
+    
+
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -360px;
+    left: 150px;
+    width: 250px;
+
+
+} 
+.main-bg {
+        height: 6400px;
+    } 
+.main-bg  .bnr-sec .cnnt  #chrt{
+    position: relative;
+    left: 70px;
+}
+.main-bg  .abt-sec{
+    margin-top: -160px;
+}
+
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 60px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 36px;
+}
+.main-bg .tkn-sect .cnttt{
+    margin-top: -45px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 100px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 90px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 90px;
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 90px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 90px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 10px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 10px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -20px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -160px;
+    left: 107px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -280px;
+left: 50px;
+width: 170px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 760px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    
+    width: 330px;
+    padding: 3px;
+}
+.main-bg .ftr-sec .copy p
+{
+    font-size: 12px;
+
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 190px;
+}
+}
+
+/*-------------360===========*/
+@media(max-width:360px){
+    
+
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -360px;
+    left: 150px;
+    width: 250px;
+
+
+} 
+.main-bg {
+        height: 6300px;
+    } 
+.main-bg  .bnr-sec .cnnt  #chrt{
+    position: relative;
+    left: 70px;
+}
+.main-bg  .abt-sec{
+    margin-top: -160px;
+}
+
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 54px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 36px;
+}
+.main-bg .tkn-sect .cnttt{
+    margin-top: -45px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 360px;
+    left: -134px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 100px;
+    left: 130px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 90px;
+    position: relative;
+    left: 10px;
+    top: -5px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 90px;
+     position: relative;
+    left: 10px;
+    top: -5px;
+
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 90px;
+     position: relative;
+    left: 10px;
+    top: -5px;
+
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 90px;
+     position: relative;
+    left: 10px;
+    top: -5px;
+
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 9px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 9px;
+    word-spacing: px;
+}
+.main-bg .road-sec .prg-3 ul li{
+    font-size: 9px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg-4 ul li{
+    font-size: 9px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: -10px;
+    left: 100px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -140px;
+    left: 110px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -260px;
+left: 50px;
+width: 160px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 730px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: -1.5px;
+    width: 330px;
+    padding: 3px;
+}
+.main-bg .ftr-sec .copy p
+{
+    font-size: 12px;
+
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 190px;
+}
+}
+/*------------------320--------------*/
+@media(max-width:320px){
+.main-bg  .bnr-sec .cnnt h4{
+    font-size: 16px;
+}
+    
+
+    .main-bg  .bnr-sec .cnt #dog{
+    position: relative;
+    top: -360px;
+    left: 120px;
+    width: 250px;
+
+
+} 
+.main-bg  .bnr-sec .cnnt  #chrt{
+    position: relative;
+    left: 70px;
+}
+.main-bg  .abt-sec{
+    margin-top: -160px;
+}
+
+.main-bg  .bnr-sec .cnt .crcl{
+    width: 400px;
+   margin-left: 33px;
+    }
+    .main-bg  .bnr-sec{
+    margin-top: 40px;
+}
+.main-bg .tkn-sect .cnntt{
+    margin-top: 36px;
+}
+.main-bg .tkn-sect .cnttt{
+    margin-top: -45px;
+}
+.main-bg .road-sec .prg2{
+    position: relative;
+    top: 320px;
+    left: -124px;
+}
+.main-bg .road-sec .prg1{
+    position: relative;
+    top: 90px;
+    left: 100px;
+    font-size: 14px;
+
+}
+.main-bg .road-sec .mann .prg-4 .phs{
+    width: 80px;
+     position: relative;
+    left: 20px;
+    top: -10px;
+}
+.main-bg .road-sec .mann .prg-3 .phs{
+    width: 80px;
+     position: relative;
+    left: 20px;
+    top: -10px;
+
+}
+.main-bg .road-sec .mann .prg2 .phs{
+    width: 80px;
+     position: relative;
+    left: 20px;
+    top: -10px;
+}
+.main-bg .road-sec .mann .prg1 .phs{
+    width: 80px;
+    position: relative;
+    left: 20px;
+    top: -10px;
+}
+.main-bg .road-sec .prg2 ul li{
+    font-size: 8px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg1 ul li{
+    font-size: 8px;
+    word-spacing: px;
+}
+.main-bg .road-sec .prg-3 ul li{
+    font-size: 8px;
+    word-spacing: 1px;
+}
+.main-bg .road-sec .prg-4 ul li{
+    font-size: 8px;
+    word-spacing: px;
+}
+
+.main-bg .road-sec .prg-3{
+    position: relative;
+    top: 5px;
+    left: 80px;
+}
+.main-bg .road-sec .prg-4{
+    position: relative;
+    top: -130px;
+    left: 83px;
+    font-size: 14px;
+
+}
+.main-bg .updt-sec .updt-bg {
+    padding: 50px;
+}
+.main-bg .updt-sec .updt-bg  #dog2{
+position: relative;
+top: -220px;
+left: 40px;
+width: 130px;
+}
+.main-bg .updt-sec .updt-bg{
+    height: 730px;
+}
+.main-bg .ftr-sec .copy{
+    position: relative;
+    left: 5px;
+    width: 280px;
+    padding: 3px;
+}
+.main-bg .ftr-sec .copy p
+{
+    font-size: 12px;
+
+}
+.main-bg .road-sec .mann{
+    
+    margin-top: 190px;
+}
+}
